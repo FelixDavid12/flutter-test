@@ -1,6 +1,6 @@
-# test_app
+# Test App
 
-A new test Flutter App.
+A new test Flutter App for learning and academic purposes.
 
 ## Getting Started
 
